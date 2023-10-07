@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fdb52d61-4790-4040-bc5c-93789a7438cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/CheckAmstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/ConvertAlphaNumericToNumeric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/DuplicateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/DuplicateCharactersInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/DuplicateNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/FactorialNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/FactorialUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/FuctionsforDaysandlater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/FuctionsforDaysandlater2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/LargestNumberInArrayNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/MatricMultiDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/NumberGuessingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/NumberPattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/OccurrenceOfEachLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/OddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/PalindromeNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/SmallestPositiveIntegerMissingInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/basics/StarProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/reversePrograms/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/reversePrograms/ReverseALinkedListNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/reversePrograms/ReverseArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/reversePrograms/ReverseArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/reversePrograms/ReverseEachWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/reversePrograms/ReverseLinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/reversePrograms/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/reversePrograms/ReverseStringIterativeMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/reversePrograms/ReverseStringPreservingPositionOfSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/reversePrograms/ReverseStringRecurssion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/reversePrograms/ReverseStringWordByWordProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/Interviewquestions/reversePrograms/reverseStringNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/array/Array1d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/array/Array2d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/array/ArrayObjectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/array/ReadArrayFromKeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/collections/CConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/collections/CollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/collections/CollectionsFeatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/collections/ComparableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/collections/CustSortingCompartorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/collections/HashTableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/collections/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/collections/Mapdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/collections/SetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/exceptionhandling/ClosingResourceUsingFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/exceptionhandling/LTUException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/exceptionhandling/TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/exceptionhandling/TryWithResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/exceptionhandling/UserDefinedExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/javaconcepts/AnamingConvention2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/javaconcepts/ClassNObject7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/javaconcepts/IterationDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/javaconcepts/J11StaticKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/javaconcepts/J12InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/javaconcepts/J8Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/javaconcepts/J9ThisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/javaconcepts/JavaGenericsNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/javaconcepts/Jumpdemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/javaconcepts/OperatorsDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/javaconcepts/SelectionDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/javaconcepts/VarargsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/javaconcepts/VaribleConcept1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/AbstractDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/AbstractDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/Anonymous37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/Encapulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/InheritanceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/J10OverloadingMethodAndConstutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/LooseCoupling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/OverridingDemoSe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/SuperDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/interfaced/AnonymousWithInterface38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/interfaced/ClassImplementingInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/interfaced/DefaultMethodInteface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/interfaced/DefaultMethodInteface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/interfaced/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/interfaced/InterfaceDemoI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/interfaced/LambdaExpressionsInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/interfaced/MutipleInhertainceInterfaceDefaultmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/oops/interfaced/StaticMethodNvariableinIntefaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/threads/RunnableInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/threads/SyncDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/threads/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/threads/ThreadJoinNAliveDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ltu/threads/ThreadNamingNPriority.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2WRU0ITLVlyYn5UzZRhFAnTzeV8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "onboarding.tips.debug.path": "C:/Users/Realme/Documents/GitHub/LtuJavaRepo/LtuJava/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.AbstractDemo">
+    <configuration name="AbstractDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ltu.oops.AbstractDemo" />
+      <module name="LtuJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ltu.oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array1d" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.Array1d" />
+      <module name="LtuJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array2d" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ltu.array.Array2d" />
+      <module name="LtuJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ltu.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="LtuJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.ltu.array.Array1d" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ltu.array.Array1d" />
+      <module name="LtuJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ltu.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AbstractDemo" />
+        <item itemvalue="Application.Array2d" />
+        <item itemvalue="Application.org.ltu.array.Array1d" />
+        <item itemvalue="Application.Array1d" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdb52d61-4790-4040-bc5c-93789a7438cf" name="Changes" comment="" />
+      <created>1696694665606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696694665606</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
